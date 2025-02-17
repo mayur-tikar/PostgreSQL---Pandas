@@ -1,5 +1,10 @@
 # SQL & Pandas integration
 
+#### 1.  Learn how to create and manage databases.
+#### 2.  Write SQL queries to extract, transform, and load data.
+#### 3.  Integrate Pandas with SQL for data processing.
+
+Steps followed:
 1.  Install & Set Up PostgreSQL (Preferred) or MySQL.
 2.  Create a Database and Table
 3.  Connect Pandas to PostgreSQL
