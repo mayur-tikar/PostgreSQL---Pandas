@@ -1,4 +1,4 @@
-# PostgreSQL - Pandas
+# SQL & Pandas integration
 
 1.  Install & Set Up PostgreSQL (Preferred) or MySQL.
 2.  Create a Database and Table
