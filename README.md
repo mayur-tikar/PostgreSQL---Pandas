@@ -1,4 +1,4 @@
-# PostgreSQL---Pandas
+# PostgreSQL - Pandas
 
 1.  Install & Set Up PostgreSQL (Preferred) or MySQL.
 2.  Create a Database and Table
